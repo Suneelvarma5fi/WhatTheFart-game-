@@ -6,3 +6,5 @@ steps to run the Game:
  2. open the folder and run the file named " lead.py"
  3. Up arrow for Fart
  4. left and right arrows for butts movement
+ 
+HAVE FUN
