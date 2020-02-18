@@ -1,5 +1,5 @@
-# What_The_Fart-game-
-Basic game built using Python, WEIRD & FUNNY
+## What The Fart!
+Basic game built using #Python, WEIRD & FUNNY
 
 steps to run the Game:
  1. Download the files
@@ -9,6 +9,6 @@ steps to run the Game:
  ```
  3. open the folder and run the file named "lead.py"
  
-Controls:
+## Controls:
 * UP arrow  : fart
 * LEFT/RIGHT arrows: butt movement
