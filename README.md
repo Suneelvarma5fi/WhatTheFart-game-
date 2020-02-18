@@ -1,4 +1,4 @@
-# WhatTheFart-game-
+# What_The_Fart-game-
 Basic game built using Python, WEIRD & FUNNY
 
 steps to run the Game:
@@ -6,9 +6,6 @@ steps to run the Game:
  2. Install pygame module in python shell "pip install pygame"
  3. open the folder and run the file named "lead.py"
  
- Controls:
- 
- UP arrow  : fart
- LEFT/RIGHT: butt movement
- 
- 
+Controls:
+ 1.UP arrow  : fart
+ 2.LEFT/RIGHT arrows: butt movement
